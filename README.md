@@ -1,4 +1,4 @@
-# text_enhanced_KGE
+# Hypercomplex Knowledge Graph Embeddings with Multiple Language Models
 
 Here is the code of our paper [Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces](https://arxiv.org/abs/2208.02743).
 
