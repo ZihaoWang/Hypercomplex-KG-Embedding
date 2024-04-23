@@ -1,6 +1,6 @@
 # text_enhanced_KGE
 
-Here is the code of the paper "Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces" on https://arxiv.org/abs/2208.02743
+Here is the code of our paper [Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces](https://arxiv.org/abs/2208.02743).
 
 1. Please download the dataset at https://drive.google.com/file/d/1Za6KCacWVJe3aTTCD-5zTVbNKUHkoGBw/view?usp=drive_link
 
